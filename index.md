@@ -1,7 +1,7 @@
 ---
-My Own Site: Welcome to my blog
+VK_Whironn BLOG: Welcome
 ---
-# My first proper website 1
+# Sky above, voice within
 
-:brazil: yey!!
+🇧🇷 yey!!
 
